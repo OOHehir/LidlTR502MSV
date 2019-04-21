@@ -1,0 +1,23 @@
+{
+    "switch": "socket",
+
+    "pair":{
+    	"title":{
+          "Quigg_switch": "Add a Quigg switch..."
+    		},
+    	"start":{
+  			"has_remote": "Copy a remote",
+  			"has_no_remote": "Create a new signal"
+  		},
+      "configure2":{
+        "testIfWorking": "Use your remote or the switch above to test your device"
+      },
+      "imitateOn": "Repeatedly press the on button on your remote until a checkmark appears",
+      "imitateOff": "Repeatedly press the off button on your remote until a checkmark appears",
+      "error": "It appears that something went wrong, please try again",
+  		"imitate2":{
+  			"testIfWorking": "Use your remote or the switch above to test your device"
+  		}
+    }
+}
+

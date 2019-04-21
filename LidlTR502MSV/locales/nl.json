@@ -1,0 +1,19 @@
+{
+  "switch": "stopcontact",
+
+  "pair":{
+    "title":{
+        "Quigg_switch": "Koppel een Quigg stopcontact..."
+      },
+    "start":{
+      "has_remote": "kopieer een bestaande afstandbediening",
+      "has_no_remote": "Creëer een nieuw signaal"
+    },
+    "imitateOn": "Druk meerdere malen rustig op de aanknop van de afstandbediening",
+    "imitateOff": "Druk meerdere malen rustig op de uitknop van de afstandbediening",
+    "error": "Er lijkt iets fout te gaan, probeer het aub opnieuw",
+    "imitate2":{
+      "testIfWorking": "Test het apparaat met je afstandbediening of de schakelaar hierboven"
+    }
+  }
+}
